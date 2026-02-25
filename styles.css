@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.widget-container {
+  width: 100%;
+  height: 100vh; /* Adaptive to viewport */
+}
+
+.tradingview-widget-container {
+  width: 100%;
+  height: 100%;
+}
